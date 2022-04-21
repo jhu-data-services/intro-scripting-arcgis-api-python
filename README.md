@@ -1,5 +1,7 @@
 # Workshop Name
-[description]
+Are you familiar with ArcGIS Online, but want to automate analyzing and making maps? Or perhaps you’d like to expand your python skills with geospatial analysis tools and packages? Join Data Services in this workshop, where we’ll introduce you to the ArcGIS API for Python library and Esri's ArcGIS Notebooks. Using hosted notebooks in ArcGIS Online, participants will be introduced to a proprietary Esri package that allows the user to take advantage of ArcGIS Online's capabilities to perform geospatial visualization and analysis.  
+
+Pre-requisites: Participants should have some familiarity with 1) basic programming concepts, such as variable assignment, data types, and function calls, 2) basic python syntax, and 3) ArcGIS Online.  
 
 
 ## JHU Data Services   
@@ -13,21 +15,17 @@ As of March 2020, Data Services workshops are being held virtually on Zoom. [See
 
 
 ## Pre-Class Instructions
-Before the class, follow the [installation instructions to download all required software and tools for this workshop](link-to-github-installation-repo).
+Before the class, please make sure you sign into JHU's [ArcGIS Online organization](https://gisanddata.maps.arcgis.com) and request to join the [workshop group](https://gisanddata.maps.arcgis.com/home/group.html?id=fe0a5cf58ede4896939adf30983137f7).  
 
 
 ## Description of Files
-- Data: This folder contains raw data files to be used during hands-on activities in the workshop
-- In-ClassScripts: This folder contains code files you will need for the workshop:
-    - [file1]
-    - [file2]
-    - [file3]
+- Data: This folder contains a text file with the item IDs and URLs of datasets that will be during hands-on activities in the workshop
 - PresentationMaterials: This folder contains PowerPoint slides and other presentation materials used in the workshop
 - Resources: This folder contains cheatsheets to assist you during the workshop and links to external sources for you to continue your learning
 
 
 ## Post-Class Survey
-If you have taken the live webinar for this class, please take this survey: [link name](url)
+If you have taken the live webinar for this class, please take this survey: [Scripting with the ArcGIS API for Python](https://www.surveymonkey.com/r/arcgis_python_api)
 
 
 ## License and Terms of Use
@@ -40,4 +38,4 @@ The images, external resources, and cheatsheets linked in this repository may ha
 
 ## Citation
 Please cite this material as:    
-Johns Hopkins University Data Services. [Date of workshop]. [Workshop title]. [URL] 
+Johns Hopkins University Data Services. [Date of workshop]. [Workshop Title]. [Github URL] 

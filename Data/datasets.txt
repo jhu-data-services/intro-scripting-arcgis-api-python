@@ -1,0 +1,20 @@
+This file lists the datasets used during the workshop. THese items are hosted and available via ArcGIS Online. For each dataset, this document provides the item title, item ID, URL, as well as the python code snippet to run in ArcGIS Notebook. 
+
+---
+
+Dataset 1
+Title: Maryland Baltimore City Neighborhoods
+URL: https://gisanddata.maps.arcgis.com/home/item.html?id=fc5d183b20a145009eae8f8b171eeb0d
+Description: Feature collection owned and maintained by the state of Maryland. 
+Item ID: fc5d183b20a145009eae8f8b171eeb0d
+Python code:
+                baltimore_neighborhoods = gis.content.get("fc5d183b20a145009eae8f8b171eeb0d")
+
+Dataset 2
+Title: Low Income Housing Tax Credit Projects in Maryland
+URL: https://gisanddata.maps.arcgis.com/home/item.html?id=b12dd79caab74b85a4322a7c6c9772db
+Description: Feature layer created by the JHU Data Services team for the purposes of this workshop. This dataset is a subset of Maryland-based projects from HUD's Low Income Housing Tax Credit Properties feature layer. 
+Item ID: b12dd79caab74b85a4322a7c6c9772db
+Python code:
+                lihtc = gis.content.get("b12dd79caab74b85a4322a7c6c9772db")
+
