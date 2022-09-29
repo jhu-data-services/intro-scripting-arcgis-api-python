@@ -1,4 +1,4 @@
-# Workshop Name
+# Introduction to Scripting with the ArcGIS API for Python
 Are you familiar with ArcGIS Online, but want to automate analyzing and making maps? Or perhaps you’d like to expand your python skills with geospatial analysis tools and packages? Join Data Services in this workshop, where we’ll introduce you to the ArcGIS API for Python library and Esri's ArcGIS Notebooks. Using hosted notebooks in ArcGIS Online, participants will be introduced to a proprietary Esri package that allows the user to take advantage of ArcGIS Online's capabilities to perform geospatial visualization and analysis.  
 
 Pre-requisites: Participants should have some familiarity with 1) basic programming concepts, such as variable assignment, data types, and function calls, 2) basic python syntax, and 3) ArcGIS Online.  
